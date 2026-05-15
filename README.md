@@ -48,7 +48,7 @@ This tool is optimized for users searching for:
 ## 🤝 Support
 
 For support, feedback, or feature requests regarding **instantdomain**, please reach out via:
-- **Email:** your-email@gmail.com
+- **Email:** medhachimofficial@hotmail.com
 - **GitHub Issues:** Open a ticket in this repository.
 
 ---
